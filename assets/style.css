@@ -1,0 +1,30 @@
+body{
+width: 100%;
+background-image: url(/images/images/bg.jpg);
+
+}
+header img{
+        display:block;
+        width:auto;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 200px;
+} 
+img{
+    border: solid 8px;
+    border-radius: 50%;
+    border-color: rgba(167, 91, 202, 0.514);
+}    
+header p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    
+}  
+header h1{
+    color: white;
+
+}.img{
+    margin-top: 80px;
+    text-align: center;
+}
