@@ -1,5 +1,5 @@
 body{
-
+background-size: cover;
 background-image: url(/images/images/bg.jpg);
 
 
@@ -101,23 +101,44 @@ main{
 }
 
 .img1 img{
-    width: 150px;
+    width: 370px;
+    height: 350px;
+    border: none;
+    border-radius: 1px;
 }
 .img2 img{
-    width: 150px;
+    width: 370px;
+    height: 200px;
+    border: none;
+    border-radius: 1px;
 }
 .img3 img{
-    width: 150px;
+    width: 370px;
+    height: 200px;
+    border: none;
+    border-radius: 1px;
 }
 .img6 img{
-    width: 150px;
+    width: 370px;
+    height: 200px;
+    border: none;
+    border-radius: 1px;
 }
 .img4 img{
-    width: 150px;
+    width: 370px;
+    height: 200px;
+    border: none;
+    border-radius: 1px;
 }
 .img5 img{
-    width: 150px;
+    width: 370px;
+    height: 200px;
+    border: none;
+    border-radius: 1px;
 }
 .img7 img{
-    width: 150px;
+    width: 370px;
+    height: 350px;
+    border: none;
+    border-radius: 1px;
 }
